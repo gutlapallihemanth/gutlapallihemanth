@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Hemanth Kumar                                                      
-- 👀 I’m an MSc Data Science grad with 3+ years of experience in Business Intelligence and Data Analysis. Proficient in SQL, Snowflake, DBT, and Python. Passionate about deriving actionable insights from complex datasets.
+👋 Hi, I’m Hemanth Kumar                                                      
+👀 I’m an MSc Data Science grad with 3+ years of experience in Business Intelligence and Data Analysis. Proficient in SQL, Snowflake, DBT, and Python. Passionate about deriving actionable insights from complex datasets.
 
-- 🌱 I’m currently leading Business Intelligence initiatives at Getsurance, Berlin, and previously worked at Amazon, Luxembourg.
+🌱 I’m currently leading Business Intelligence initiatives at Getsurance, Berlin, and previously worked at Amazon, Luxembourg.
   
 ## 🎓 **Education**:
 - MSc in Data Science from University of Trier, Germany 🇩🇪 (Oct 2021 - Present)
