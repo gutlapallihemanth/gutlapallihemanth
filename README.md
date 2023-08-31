@@ -1,5 +1,10 @@
 👋 Hi, I’m *Hemanth Kumar*     
 
+[![Linkedin Badge](https://img.shields.io/badge/-hemanthgutlapalli-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthgutlapalli/)](https://www.linkedin.com/in/hemanthgutlapalli/) 
+[![Medium Badge](https://img.shields.io/badge/-@hemanthgutlapalli0301-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@hemanthgutlapalli0301)](https://medium.com/@hemanthgutlapalli0301)
+[![Gmail Badge](https://img.shields.io/badge/-hemanthgutlapalli0301@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hemanthgutlapalli0301@gmail.com)](mailto:hemanthgutlapalli0301@gmail.com)
+
+
 👀 I’m an MSc Data Science grad with 3+ years of experience in Business Intelligence and Data Analysis. Proficient in SQL, Snowflake, DBT, and Python. Passionate about deriving actionable insights from complex datasets.
 
 🌱 I’m currently leading Business Intelligence initiatives at Getsurance, Berlin, and previously worked at Amazon, Luxembourg.
