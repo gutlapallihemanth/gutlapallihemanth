@@ -11,7 +11,7 @@
 I am a **Data Engineer / Business Intelligence Engineer** with **5+ years of experience** in designing and delivering scalable data platforms, analytics solutions, and actionable business insights.  
 I have strong expertise in **Snowflake, dbt, SQL, SAP (ECC & S/4HANA), Python**, and BI tools like **Power BI & QuickSight**.  
 
-Currently, I am leading **BI initiatives at Getsurance, Berlin**, and passionate about transforming complex data into reliable, actionable insights.
+Currently, I am leading **Data Engineering initiatives at OQEMA, Mönchengladbach**, and passionate about transforming complex data into reliable, actionable insights.
 
 ---
 
