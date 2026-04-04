@@ -119,20 +119,12 @@ Strong expertise across the modern data stack: **Snowflake · dbt · SQL · SAP 
 
 | Degree | Institution | Period |
 |--------|-------------|--------|
-| **M.Sc. Data Science** | University of Trier, Germany | Oct 2021 – Present |
+| **M.Sc. Data Science** | University of Trier, Germany | Oct 2021 –  Oct 2023 |
 | **B.Tech Computer Science & Engineering** | JNTU Anantapur, India | Jun 2016 – Jul 2020 |
 
 **M.Sc. Coursework:** NLP · Big Data · Data Mining · Mathematics · Statistics · Numerical Optimisation · Time Series Analysis
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Hemanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gutlapallihemanth&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gutlapallihemanth&layout=compact&theme=default&hide_border=true)
 
 </div>
 
@@ -144,7 +136,6 @@ Strong expertise across the modern data stack: **Snowflake · dbt · SQL · SAP 
 |----------|-------------|
 | English | Fluent |
 | German | Intermediate |
-| Telugu | Native |
 
 ---
 
